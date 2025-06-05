@@ -6,13 +6,13 @@ El sistema simula un entorno escolar donde distintos usuarios pueden acceder seg
 
 ---
 
-## 🎯 Objetivo del proyecto
+## Objetivo del proyecto
 
 Diseñar e implementar un prototipo en Java que permita simular las principales funcionalidades de gestión escolar, aplicando correctamente los **pilares de la Programación Orientada a Objetos (POO)**, estructuras de control, manejo de excepciones y organización modular del código.
 
 ---
 
-## ⚙️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - Java SE 17+
 - NetBeans IDE
@@ -24,7 +24,7 @@ Diseñar e implementar un prototipo en Java que permita simular las principales 
 
 ---
 
-## 🧩 Funcionalidades implementadas
+##  Funcionalidades implementadas
 
 - **Inicio de sesión** por email y contraseña.
 - Acceso diferenciado por **rol institucional**:
@@ -41,7 +41,7 @@ Diseñar e implementar un prototipo en Java que permita simular las principales 
 
 ---
 
-## 📚 Organización del código
+##  Organización del código
 
 - `modelo/`: contiene las clases principales (`Usuario`, `Docente`, `Estudiante`, `Asistencia`, `Actividad`, etc.)
 - `controlador/SIGE.java`: clase principal con el menú de navegación por rol.
@@ -50,7 +50,7 @@ Diseñar e implementar un prototipo en Java que permita simular las principales 
 
 ---
 
-## 🧪 Cómo ejecutar
+##  Cómo ejecutar
 
 1. Clonar este repositorio o descargar como ZIP.
 2. Abrir el proyecto en NetBeans.
@@ -59,7 +59,7 @@ Diseñar e implementar un prototipo en Java que permita simular las principales 
 
 ---
 
-## 👥 Usuarios simulados
+##  Usuarios simulados
 
 | Usuario              | Email               | Contraseña | Rol(es)                    |
 |----------------------|---------------------|------------|----------------------------|
@@ -74,7 +74,7 @@ Diseñar e implementar un prototipo en Java que permita simular las principales 
 
 ---
 
-## 📌 Proyección hacia el TP4
+##  Proyección hacia el TP4
 
 En la siguiente etapa del proyecto se prevé:
 - Implementar **persistencia real** de datos utilizando MySQL y JDBC.
@@ -84,7 +84,7 @@ En la siguiente etapa del proyecto se prevé:
 
 ---
 
-## 🧾 Licencia
+##  Licencia
 
 Uso académico exclusivamente. Proyecto realizado para la **Licenciatura en Informática - Seminario de Práctica**
 
